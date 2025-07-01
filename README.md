@@ -1,0 +1,16 @@
+# LeetMetric - LeetCode User Stats Tracker
+
+LeetMetric is a simple and interactive web application built using HTML, CSS, and JavaScript. It allows users to view LeetCode stats by entering a valid LeetCode username. The app fetches and displays data such as the number of solved problems by difficulty level (Easy, Medium, Hard) and overall submissions using LeetCode's GraphQL API.
+
+---
+
+## 🔍 Features
+
+- 🔎 Search any valid LeetCode username.
+- 📊 View total solved questions by difficulty (Easy, Medium, Hard).
+- 📈 Display progress in a visual circular chart format.
+- 📦 Show submission stats using cards.
+- ⚠️ Validates incorrect or empty usernames.
+- 🧩 Uses a CORS proxy to handle API requests smoothly.
+
+---

@@ -24,3 +24,19 @@ LeetMetric is a simple and interactive web application built using HTML, CSS, an
 - CORS Proxy: [https://proxy.cors.sh/](https://proxy.cors.sh/)
 
 ---
+## 📜 License
+
+This project is licensed under the MIT License.  
+For full license details, see the [LICENSE](LICENSE) file.
+
+---
+
+## 🔗 API Info
+
+This project uses the **LeetCode GraphQL API** to fetch user statistics.
+
+- **API Endpoint**: `https://leetcode.com/graphql/`
+- Since LeetCode's API does not support CORS, a proxy is used:
+  - **CORS Proxy**: `https://proxy.cors.sh/`
+
+Ensure the proxy is active while running the project.

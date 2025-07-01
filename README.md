@@ -14,3 +14,13 @@ LeetMetric is a simple and interactive web application built using HTML, CSS, an
 - 🧩 Uses a CORS proxy to handle API requests smoothly.
 
 ---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- LeetCode GraphQL API
+- CORS Proxy: [https://proxy.cors.sh/](https://proxy.cors.sh/)
+
+---

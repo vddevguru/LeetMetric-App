@@ -44,4 +44,6 @@ Ensure the proxy is active while running the project.
 ---
 ## Preview
 
+![Screenshot 2025-07-04 182019](https://github.com/user-attachments/assets/5883c93f-cdb2-40bf-93b6-287b4b224769)
+
 

@@ -40,3 +40,8 @@ This project uses the **LeetCode GraphQL API** to fetch user statistics.
   - **CORS Proxy**: `https://proxy.cors.sh/`
 
 Ensure the proxy is active while running the project.
+
+---
+## Preview
+
+
